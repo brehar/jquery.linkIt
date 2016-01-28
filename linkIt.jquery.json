@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Brett Hartman",
+        "url": "http://bretthartman.net"
+    },
+    "maintainers": [
+        {
+            "name": "Brett Hartman",
+            "email": "brett.hartman@mac.com",
+            "url": "http://bretthartman.net"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/brehar/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/brehar/jquery.linkIt",
+    "docs": "https://github.com/brehar/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
